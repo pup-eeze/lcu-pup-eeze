@@ -1,0 +1,14 @@
+{ 
+    "templates": {
+        "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+        "scope": "@pup-eeze",
+        "workspace": "lcu-pup-eeze"
+    },
+    "config": {
+      "wc": ["wc/lcu-pup-eeze.lcu.js"],
+      "solutions": {},
+      "elements": {},
+      "flux": {},
+      "dependencies": {}
+    }
+}
